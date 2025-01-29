@@ -1,4 +1,4 @@
 # FindMatchingSubstrings
 
-Adilkhan Barakov
-Тестовое задание Kaspi Travel.
+# Adilkhan Barakov
+# Тестовое задание Kaspi Travel.
